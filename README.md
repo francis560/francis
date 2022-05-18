@@ -4,6 +4,8 @@ Hi, I'am Francis, a ⚡FULL-STACK⚡ developer from the Dominican Republic. Besi
 
 Since 2020 I live and breathe in the world of web development💻. I am dedicated both to the creation of modern interfaces and to the creation of complex backend applications. I have had the opportunity to immerse myself in many different jobs and projects helping to make this world a little better through design🎨 and code🐱‍💻.
 
+Linux lover 💖🐧
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis560&show_icons=true&theme=radical)
@@ -41,7 +43,3 @@ Since 2020 I live and breathe in the world of web development💻. I am dedicate
 * Digitalocean
 * Firebase
 * Strapi
-
----
-
-## Linux lover 💖🐧
