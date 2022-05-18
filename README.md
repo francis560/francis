@@ -10,7 +10,7 @@ Since 2020 I live and breathe in the world of web development💻. I am dedicate
 
 ## Programming languages
 
-* Javascript
+* Javascript 💖
 * Python
 
 ## Frontend skills
