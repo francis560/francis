@@ -10,12 +10,12 @@ Linux lover 💖🐧
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis560&show_icons=true&theme=radical)
 
-## Programming languages
+## 💛 Programming languages
 
 * Javascript 💖
 * Python
 
-## Frontend skills
+## 🎨🖌️ Frontend skills
 
 * Css
 * Html
@@ -26,7 +26,7 @@ Linux lover 💖🐧
 * React 
 * Nextjs
 
-## Backend skills
+## 🤖 Backend skills
 
 * Graphql
 * Node (Express)
@@ -36,7 +36,7 @@ Linux lover 💖🐧
 * Typescript
 * Nginx
 
-## Tools i use
+## ⚒️ Tools i use
 
 * Figma
 * Git (Github)
