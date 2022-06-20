@@ -6,6 +6,9 @@ Since 2020 I live and breathe in the world of web development💻. I am dedicate
 
 Linux lover 💖🐧
 
+<a href="https://www.github.com/francis560" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/isaacismaelx14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francis560&show_icons=true&theme=radical)
@@ -43,3 +46,14 @@ Linux lover 💖🐧
 * Digitalocean
 * Firebase
 * Strapi
+
+## 🏅 Top Repositories
+
+<div width="100%" align="center">
+  <a href="https://github.com/francis560/express-cli-ultimate" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=francis560&repo=express-cli-ultimate&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  </a>
+</div><br />
+<br />
+<br /><br /><br /><br /><br />
+
