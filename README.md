@@ -7,7 +7,7 @@ Since 2020 I live and breathe in the world of web development💻. I am dedicate
 Linux lover 💖🐧
 
 <a href="https://www.github.com/francis560" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/isaacismaelx14?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/francis560?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
